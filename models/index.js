@@ -1,7 +1,7 @@
 const UserModel = require("./user")
-const JournalModel = require("./journal")
+const LogModel = require("./log")
 
 module.exports = { 
     UserModel,
-    JournalModel 
+    LogModel 
 }
